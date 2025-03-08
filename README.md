@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1 align="center">Hi there, I'm <a href="https://github.com/MevScreenager" target="_blank">Ilya</a>  
+    <h1 align="center">Hi there, I'm <a href="https://github.com/MevScreenager" target="_blank">Anastasiya</a>  
         <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
     <h3>Student | Python</h3>
 </div>
