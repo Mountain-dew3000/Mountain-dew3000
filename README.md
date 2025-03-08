@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h1 align="center">Hi there, I'm <a href="https://github.com/MevScreenager" target="_blank">Anastasiya</a>  
+    <h1 align="center">Hi there, I'm <a href="https://github.com/Mountain-dew3000" target="_blank">Anastasiya</a>  
         <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
     <h3>Student | Python</h3>
 </div>
@@ -32,9 +32,9 @@
 ### My stat
 
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MevScreenager&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MevScreenager&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MevScreenager&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mountain-dew3000&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mountain-dew3000&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mountain-dew3000&theme=github_dark" alt=""/>
 </div>
 
 ---
